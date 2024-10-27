@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Sora, sans-serif;
+}
+
+ul {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+/* Tela de Cadastro */
+
+.register input  {
+    border: none;
+    height: 38px;
+    border-radius: 4px;
+    padding: 6px 12px;
+}
+
+div.form-group {
+    height: 86px;
+}
+
+#reset-form {
+    height: 140px;
+}
